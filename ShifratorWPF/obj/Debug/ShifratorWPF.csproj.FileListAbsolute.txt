@@ -1,0 +1,30 @@
+C:\Users\Віктор\Desktop\ShifratorWPF\ShifratorWPF\bin\Debug\ShifratorWPF.exe.config
+C:\Users\Віктор\Desktop\ShifratorWPF\ShifratorWPF\bin\Debug\ShifratorWPF.exe
+C:\Users\Віктор\Desktop\ShifratorWPF\ShifratorWPF\bin\Debug\ShifratorWPF.pdb
+C:\Users\Віктор\Desktop\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF.csprojResolveAssemblyReference.cache
+C:\Users\Віктор\Desktop\ShifratorWPF\ShifratorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Віктор\Desktop\ShifratorWPF\ShifratorWPF\obj\Debug\App.g.cs
+C:\Users\Віктор\Desktop\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF_MarkupCompile.cache
+C:\Users\Віктор\Desktop\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF_MarkupCompile.lref
+C:\Users\Віктор\Desktop\ShifratorWPF\ShifratorWPF\obj\Debug\MainWindow.baml
+C:\Users\Віктор\Desktop\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF.g.resources
+C:\Users\Віктор\Desktop\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF.Properties.Resources.resources
+C:\Users\Віктор\Desktop\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF.csproj.GenerateResource.Cache
+C:\Users\Віктор\Desktop\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF.csproj.CoreCompileInputs.cache
+C:\Users\Віктор\Desktop\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF.exe
+C:\Users\Віктор\Desktop\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF.pdb
+C:\Users\Віктор\Desktop\Новая папка (2)\ShifratorWPF\ShifratorWPF\bin\Debug\ShifratorWPF.exe.config
+C:\Users\Віктор\Desktop\Новая папка (2)\ShifratorWPF\ShifratorWPF\bin\Debug\ShifratorWPF.exe
+C:\Users\Віктор\Desktop\Новая папка (2)\ShifratorWPF\ShifratorWPF\bin\Debug\ShifratorWPF.pdb
+C:\Users\Віктор\Desktop\Новая папка (2)\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF.csprojAssemblyReference.cache
+C:\Users\Віктор\Desktop\Новая папка (2)\ShifratorWPF\ShifratorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Віктор\Desktop\Новая папка (2)\ShifratorWPF\ShifratorWPF\obj\Debug\App.g.cs
+C:\Users\Віктор\Desktop\Новая папка (2)\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF_MarkupCompile.cache
+C:\Users\Віктор\Desktop\Новая папка (2)\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF_MarkupCompile.lref
+C:\Users\Віктор\Desktop\Новая папка (2)\ShifratorWPF\ShifratorWPF\obj\Debug\MainWindow.baml
+C:\Users\Віктор\Desktop\Новая папка (2)\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF.g.resources
+C:\Users\Віктор\Desktop\Новая папка (2)\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF.Properties.Resources.resources
+C:\Users\Віктор\Desktop\Новая папка (2)\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF.csproj.GenerateResource.cache
+C:\Users\Віктор\Desktop\Новая папка (2)\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF.csproj.CoreCompileInputs.cache
+C:\Users\Віктор\Desktop\Новая папка (2)\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF.exe
+C:\Users\Віктор\Desktop\Новая папка (2)\ShifratorWPF\ShifratorWPF\obj\Debug\ShifratorWPF.pdb
